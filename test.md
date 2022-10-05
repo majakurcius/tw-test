@@ -7,7 +7,7 @@ test
 - three
 
 1. one
-1. three
+1. 2
 
 ![Eiffel tower](pobrane.jpeg)
 
